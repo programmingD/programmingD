@@ -4,7 +4,9 @@
 <p align="left"> 
 I have focused on studying the following areas: </p>
 - 🌐 Web development
+
 - 💻 Desktop development
+  
 - 📱Mobile app development
 
 - 🌱 I’m currently learning **mobile app development**
