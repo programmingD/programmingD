@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A Passionate Developer from Mexico</h3>
 
+<p align="left"> 
+I have focused on studying the following areas: </p>
+- 🌐 Web development
+- 💻 Desktop development
+- 📱Mobile app development
+
 - 🌱 I’m currently learning **mobile app development**
 
 - ⚡ Fun fact **I think I am funny**
