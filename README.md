@@ -10,6 +10,9 @@ I have focused on studying the following areas: </p>
   
 - 📱Mobile app development
 
+<p align="left"> 
+From me: </p>
+
 - 🌱 I’m currently learning **mobile app development**
 
 - ⚡ Fun fact **I think I am funny**
