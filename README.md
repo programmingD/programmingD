@@ -3,6 +3,7 @@
 
 <p align="left"> 
 I have focused on studying the following areas: </p>
+
 - 🌐 Web development
 
 - 💻 Desktop development
